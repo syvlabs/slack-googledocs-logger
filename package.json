@@ -1,0 +1,23 @@
+{
+  "name": "slack-logger",
+  "version": "0.0.1",
+  "description": "slack logging to google docs",
+  "main": "index.js",
+  "dependencies": {
+    "slack-node": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syvlabs/slack-googledocs-logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syvlabs/slack-googledocs-logger/issues"
+  },
+  "homepage": "https://github.com/syvlabs/slack-googledocs-logger#readme"
+}
